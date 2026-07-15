@@ -42,8 +42,11 @@ The code requires the following Python packages:
 - pandas
 - matplotlib
 - astropy
-- scipy
+- sys
+- re
+- os
 - [tess-point](https://github.com/tessgi/tess-point)
+- (multiprocessing)
 
 ## License
 See LICENSE file.
