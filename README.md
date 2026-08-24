@@ -8,6 +8,8 @@ Journal TBA: DOI
 
 arXiv: TBA
 
+If you use this software in your research, please cite the publication listed above.
+
 ## Repository contents
 
 The repository provides tools to:
@@ -27,8 +29,8 @@ The repository also contains:
 
 The analysis uses publicly available data from:
 
-- TESS Input Catalog (TIC):
-  MAST 
+- TESS Input Catalog (TIC):   
+  MAST  
   https://archive.stsci.edu/tess/tic_ctl.html
 
 - TESS spacecraft ephemerides:  
