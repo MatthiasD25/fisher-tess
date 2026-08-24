@@ -12,9 +12,9 @@ arXiv: TBA
 
 The repository provides tools to:
 
-- generate apparent stellar aberration trails including TESS' orbital motion and DM-induced accelerations (see "Star_trails_jpl.ipynb"),
+- generate apparent stellar aberration trails including TESS's orbital motion and DM-induced accelerations (see "Star_trails_jpl.ipynb"),
 - identify bright TESS targets observed in the continuous viewing zones (CVZ) around the ecliptic poles (see "Get_reduced_TIC.ipynb", "Get_TICIDs_per_sector.py", and "Find_CVZ_TICIDs.ipynb"),
-- compute acceleration sensitivities from the stars' sky distribution and TESS' observing characteristics using a Fisher-information approach (see "Fisher_analysis.ipynb"),
+- compute acceleration sensitivities from the stars' sky distribution and TESS's observing characteristics using a Fisher-information approach (see "Fisher_analysis.ipynb"),
 - derive constraints on detectable DM subhalo masses and distances (see "Reachable_parameter_space.ipynb").
 
 The repository also contains:
