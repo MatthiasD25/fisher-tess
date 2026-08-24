@@ -8,7 +8,7 @@ Journal TBA: DOI
 
 arXiv: TBA
 
-If you use this software in your research, please cite the publication listed above.
+*If you use this software in your research, please cite the publication listed above.*
 
 ## Repository contents
 
