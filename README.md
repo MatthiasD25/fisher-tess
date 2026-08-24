@@ -27,7 +27,8 @@ The repository also contains:
 
 The analysis uses publicly available data from:
 
-- TESS Input Catalog (TIC):  
+- TESS Input Catalog (TIC):
+  MAST 
   https://archive.stsci.edu/tess/tic_ctl.html
 
 - TESS spacecraft ephemerides:  
