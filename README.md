@@ -2,11 +2,11 @@
 
 This repository contains the analysis code used to generate the results and figures presented in:
 
-**"Associated publication"** 
+**A New Probe of Dark Matter Subhalos: Stellar Aberration with TESS** 
 
-Add journal: DOI
+Journal TBA: DOI
 
-arXiv:
+arXiv: TBA
 
 ## Repository contents
 
