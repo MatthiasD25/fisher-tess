@@ -6,7 +6,7 @@ This repository contains the analysis code used to generate the results and figu
 
 Journal TBA: DOI
 
-arXiv: TBA
+arXiv: [2608.23795](https://arxiv.org/abs/2608.23795)
 
 *If you use this software in your research, please cite the publication listed above.*
 
